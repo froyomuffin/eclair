@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+/*Global ===================================================================*/
+.tab-content {
+      clear: none;
+}
+
+a {
+	text-decoration: none;
+	border: none;
+	color: #BEBEBE;
+}
+
+img {
+	border: none;
+}
+	
+html, body {
+	font-family: 'Arimo', sans-serif;
+	color: #737373;
+	margin: 0;
+}
+
+img.icons {
+	height: 60px;
+	width: 60px;
+}
+
+/*Body ===================================================================*/
+
+#wrapper {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#socialmedia {
+	letter-spacing: 15pt;
+	height: 60px;
+}
